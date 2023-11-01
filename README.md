@@ -12,6 +12,9 @@ After 35+ days of dedicated work and iterating through 50+ versions of my soluti
 
 My approach involved a meticulous analysis of the provided datasets, employing advanced data processing and machine learning techniques. I optimized the selection of depots and refineries, ensuring an efficient supply chain management system. Additionally, I determined the optimal paths for biomass transportation, enhancing overall productivity and minimizing costs.
 
+## Additional Contributions
+
+In addition to my participation in the Shell AI Waste to Energy Challenge, I have also shared my knowledge and expertise in a Kaggle post about ARIMA forecasting techniques. You can read the article and join the discussion on Kaggle: [ARIMA Forecasting Techniques - Kaggle Post](https://www.kaggle.com/discussions/general/432826)
 
 ## For more details
 - Check out my solution on Kaggle: [Shell AI Waste to Energy Hackathon 2023 Solution](https://www.kaggle.com/code/siddp6/shell-ai-waste-to-energy-hackathon-2023-solution)
