@@ -1,4 +1,5 @@
 # Shell AI Waste to Energy Challenge Solution
+![image](https://github.com/sidd6p/Shell_Agricultural_Waste_Challenge/assets/91800813/8944a8ba-475b-4567-aeab-69c98680b1cd)
 
 I am thrilled to share my successful journey in the Shell AI Waste to Energy Challenge, where I qualified for round 2 with my innovative solution. 🚀🎉🥳
 
