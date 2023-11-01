@@ -13,7 +13,7 @@ After 35+ days of dedicated work and iterating through 50+ versions of my soluti
 My approach involved a meticulous analysis of the provided datasets, employing advanced data processing and machine learning techniques. I optimized the selection of depots and refineries, ensuring an efficient supply chain management system. Additionally, I determined the optimal paths for biomass transportation, enhancing overall productivity and minimizing costs.
 
 
-**For more details:**
+## For more details
 - Check out my solution on Kaggle: [Shell AI Waste to Energy Hackathon 2023 Solution](https://www.kaggle.com/code/siddp6/shell-ai-waste-to-energy-hackathon-2023-solution)
 - Read my LinkedIn post about the challenge: [LinkedIn Post](https://www.linkedin.com/posts/siddp6_kaggle-hackerearth-hackathon-activity-7105267874428051456-CLlv?utm_source=share&utm_medium=member_desktop)
 
